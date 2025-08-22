@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Arnav Yayavaram, a first year Master's in Natural Language Processing and Machine Learning at the School of Computer Science at Carnegie Mellon University. I recently graduated as the Institute Silver Medalist from BITS Pilani where I majored in Computer Science and Engineering.
+Hello! I am Arnav Yayavaram, a first year Master's in Natural Language Processing and Machine Learning at the School of Computer Science at Carnegie Mellon University.
+
+I recently graduated as the Institute Silver Medalist from BITS Pilani where I majored in Computer Science and Engineering.
 
 
 <!-- 
