@@ -1,0 +1,32 @@
+---
+layout: cv
+permalink: /cv/
+title: CV
+nav: false   # ← this hides it from the nav bar
+nav_order: 5
+---
+
+
+<!-- ---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: "Arn_Resume_1_Page-08-20-2025.pdf" # you can also use external links here
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+redirect_to: /assets/pdf/Arn_Resume_1_Page-08-20-2025.pdf
+toc:
+  sidebar: left
+--- -->
+
+<!-- ---
+layout: page
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 3
+redirect_to: /assets/pdf/Arn_Resume_1_Page-08-20-2025.pdf
+toc:
+  sidebar: left
+--- -->

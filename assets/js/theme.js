@@ -14,8 +14,9 @@ let toggleThemeSetting = () => {
 
 // Change the theme setting and apply the theme.
 let setThemeSetting = (themeSetting) => {
+  // localStorage.setItem("theme", themeSetting);
+  themeSetting = "light"; // or "dark" depending on your preference
   localStorage.setItem("theme", themeSetting);
-
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
   applyTheme();
