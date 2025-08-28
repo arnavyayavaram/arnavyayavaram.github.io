@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Siddharth Yayavaram"
+title                    : "Arnav Yayavaram"
 title_separator          : "-"
-name                     : &name "Siddharth Yayavaram"
+name                     : &name "Arnav Yayavaram"
 description              : &description ""
-url                      : https://siddharthyayavaram.github.io # the base hostname & protocol for your site
+url                      : https://arnavyayavaram.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "siddharthyayavaram/siddharthyayavaram.github.io"
+repository               : "arnavyayavaram/arnavyayavaram.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,15 +23,15 @@ repository               : "siddharthyayavaram/siddharthyayavaram.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Siddharth Yayavaram"
+  name             : "Arnav Yayavaram"
   # pronouns         : "he/him"
   bio              : "Graduate Student @ CMU LTI"
   location         : "Pittsburgh, PA, USA"
-  email            : "siddharth.yayavaram@gmail.com"
+  email            : "arnav.yayavaram@gmail.com"
 
-  github           : "siddharthyayavaram"
+  github           : "arnavyayavaram"
   # Social media
-  linkedin         : siddharth-yayavaram
+  linkedin         : arnav-yayavaram
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
