@@ -9,7 +9,7 @@ author_profile: true
 
 **Arnav Yayavaram*, **Siddharth Yayavaram*, Simran Khanuja, Michael Saxon and Graham Neubig
 
-Published in *CEGIS @ ICCV*, 2025
+Published in *CEGIS @ ICCV*, 2025 & *EACL*, 2026
 
 [[Paper]](https://arxiv.org/abs/2506.09109) [[Code]](https://github.com/siddharthyayavaram/CAIRE)
 
