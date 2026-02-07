@@ -11,8 +11,6 @@ Hello, I'm **Arnav Yayavaram**, a Master’s in Natural Language Processing and 
 
 I recently graduated as the Institute **Silver Medalist** (Rank 2) from BITS Pilani where I majored in Computer Science and Engineering.
 
-I work at the intersection of multimodal ML, language models, and agentic AI systems. For my undergraduate thesis, I collaborated with CMU alongside Professor Graham Neubig, Simran Khanuja, and Michael Saxon to build a system that enriches vision-language models with knowledge from a multilingual, multicultural database, improving their ability to evaluate images for cultural relevance. This project was accepted to CEGIS @ **ICCV 2025** and **EACL 2026** (Main Conference).
-
-Earlier, I explored machine learning applications in mental health, including speech-based analysis, and developed post-training approaches for language models on various nuanced and human centric tasks.
+I work at the intersection of multimodal machine learning, language models, interpretability, and more recently, agentic AI systems. For my undergraduate thesis at CMU with Prof. Graham Neubig, Simran Khanuja, and Michael Saxon, I built a system that augments vision–language models with multilingual, multicultural knowledge to better assess cultural relevance in images; this work was accepted to CEGIS @ ICCV 2025 and EACL 2026 (Main). Earlier, I explored ML applications in mental health through speech analysis and developed post-training methods for language models on nuanced, human-centered tasks.
 
 Feel free to reach out if you’d like to discuss ideas, potential collaborations, or research opportunities.
