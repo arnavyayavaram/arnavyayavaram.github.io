@@ -5,9 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+**GameDevBench: Evaluating Agentic Capabilities Through Game Development**
+
+Wayne Chi, Yixiong Fang, **Arnav Yayavaram**, Siddharth Yayavaram, Seth Karten, Qiuhong Anna Wei, Runkun Chen, Alexander Wang, Valerie Chen, Ameet Talwalkar, Chris Donahue
+
+Under Review @ *ICML 2026*
+
 **CAIRE: Cultural Attribution of Images by Retrieval-Augmented Evaluation**
 
-**Arnav Yayavaram*, **Siddharth Yayavaram*, Simran Khanuja, Michael Saxon and Graham Neubig
+***Arnav Yayavaram**, **Siddharth Yayavaram*, Simran Khanuja, Michael Saxon and Graham Neubig
 
 Published in *CEGIS @ ICCV*, 2025 & *EACL*, 2026
 
@@ -15,16 +21,21 @@ Published in *CEGIS @ ICCV*, 2025 & *EACL*, 2026
 
 **BERT-based Idiom Identification using Language Translation and Word Cohesion**
 
-**Arnav Yayavaram*, **Siddharth Yayavaram*, Prajna Upadhyay and Apurba Das
+***Arnav Yayavaram**, **Siddharth Yayavaram*, Prajna Upadhyay and Apurba Das
 
 Published in *MWE-UD @ LREC-COLING*, 2024
 
 [[Paper]](https://aclanthology.org/2024.mwe-1.26.pdf) [[Code]](https://github.com/siddharthyayavaram/BERT-Based-Idiom-Detection)
 
+**On the Effects of Concordance and Diversity in Example Selection for Adaptive In-Context Learning**
+
+Manogna Nadella, Suryansh Chandola, **Arnav Yayavaram**, Siddharth Yayavaram, Kishan Abijay P, Siddharth Vijay, Varun Ravichandran, Priten Rathore, Prajna Upadhyay
+
+Under Review @ *ACM SIGIR 2026*
 
 **Interpretable Feature Optimization for Sadness Recognition in Speech Emotion Analysis**
 
-**Siddharth Yayavaram*, **Arnav Yayavaram*, Jabez Christopher and Vasan Arunachalam
+**Siddharth Yayavaram*, ***Arnav Yayavaram**, Jabez Christopher and Vasan Arunachalam
 
 Published in *IEEE Intelligent Systems (IS)*, 2024
 
