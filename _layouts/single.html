@@ -15,7 +15,9 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  {% unless page.author_profile_below %}
+    {% include sidebar.html %}
+  {% endunless %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -74,6 +76,11 @@ layout: default
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.author_profile_below and page.author_profile %}
+          <div class="author-profile-inline">
+            {% include author-profile.html %}
+          </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
