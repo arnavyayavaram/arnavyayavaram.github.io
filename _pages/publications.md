@@ -9,7 +9,7 @@ author_profile: true
 
 Wayne Chi, Yixiong Fang, <u>Arnav Yayavaram</u>, Siddharth Yayavaram, Seth Karten, Qiuhong Anna Wei, Runkun Chen, Alexander Wang, Valerie Chen, Ameet Talwalkar, Chris Donahue
 
-Under Review @ *ICML 2026*
+Accepted @ *ICML 2026*
 
 **CAIRE: Cultural Attribution of Images by Retrieval-Augmented Evaluation**
 
